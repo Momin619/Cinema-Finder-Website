@@ -1,10 +1,10 @@
-# 🎬 Cinema Finder
+# Cinema Finder
 
-> Completed as part of the **Datacom Software Development Job Simulation** on [Forage](https://www.theforage.com/simulations/datacom/software-development-l47g). The original task was to identify and fix bugs in an existing codebase — instead, I rebuilt the entire project from scratch based on the original site's concept.
+Completed as part of the **Datacom Software Development Job Simulation** on [Forage](https://www.theforage.com/simulations/datacom/software-development-l47g). The original task was to identify and fix bugs in an existing codebase — instead, I rebuilt the entire project from scratch based on the original site's concept.
 
-📜 **[View Completion Certificate](./certificate/datacom-forage-certificate.png)**
+**[View Completion Certificate](./certificate/datacom-forage-certificate.png)**
 
-> ⚠️ All cinema data is dummy/fake — this is a practice/simulation project.
+⚠️ All cinema data is dummy/fake — this is a practice/simulation project.
 
 ---
 
@@ -43,7 +43,7 @@
 ## Run Locally
 
 ```bash
-git clone https://github.com/momin619/cinema-finder-website.git
+git clone https://github.com/Momin619/Cinema-Finder-Website
 cd cinema-finder-website
 npm install
 npm run dev
